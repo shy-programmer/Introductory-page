@@ -4,7 +4,7 @@
   "description": "My Tech portfolio",
   "main": "views/index.html",
   "scripts": {
-    "start": "nodemon app.js"
+    "dev": "nodemon app.js"
   },
   "author": "shy programmer",
   "license": "ISC",
