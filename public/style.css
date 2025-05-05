@@ -92,10 +92,14 @@ main {
 
 footer {
   background-color: #949dd1;
-  color: white;
-  text-align: center;
-  padding: 3px 0;
+  padding: 3px auto;
   position: fixed;
   bottom: 0;
   width: 100%;
+}
+
+footer p {
+  text-align: center;
+  color: white;
+  max-width: 4000px;
 }
