@@ -103,3 +103,18 @@ footer p {
   color: white;
   max-width: 4000px;
 }
+
+h3 {
+    border-bottom: 1px solid #949dd1;
+    width: 50%;
+}
+
+
+
+li span {
+    color: silver;
+}
+
+li {
+    line-height: 1.6;
+}
